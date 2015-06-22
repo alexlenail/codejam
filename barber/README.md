@@ -1,0 +1,1 @@
+This problem was one I attempted from round 1. I spent only a couple minutes on it, since it was around midnight. 
